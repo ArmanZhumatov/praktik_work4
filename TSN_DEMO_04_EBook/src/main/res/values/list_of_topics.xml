@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Топ Смартфонов</string>
+    <string name="lec01">01. Популярные Бренды </string>
+    <string name="lec11">11. Операционные системы</string>
+    <string name="lec15">15. Самые покупаемые смартфоны</string>
+    <string name="prog">     Программы</string>
+
+</resources>
