@@ -1,11 +1,6 @@
-# TSN_DEMO_04_EBook
-Электронная книга
-
-![Screenshot](screenshot1.png)
-
-![Screenshot](screenshot2.png)
-
-https://www.youtube.com/watch?v=LGl9R8_IgNU
-
-Прокрутка WebView клавишами громкости:
-https://gist.github.com/proffix4/45eee6d9bb511512efccb535e46fa465
+![Screenshot_20221113_130810](https://user-images.githubusercontent.com/91041308/201522652-6402d57b-f6c7-4e3c-9257-68cfe29f6c4d.png)
+![Screenshot_20221113_130820](https://user-images.githubusercontent.com/91041308/201522656-444845fc-a072-42ff-8760-042cc6c38ae4.png)
+![Screenshot_20221113_130849](https://user-images.githubusercontent.com/91041308/201522659-61775b47-95a6-413b-90c0-ba13525b1d53.png)
+![Screenshot_20221113_130827](https://user-images.githubusercontent.com/91041308/201522675-6d6bb833-372c-42db-941a-43de50a844f6.png)
+![Screenshot_20221113_130832](https://user-images.githubusercontent.com/91041308/201522685-94cf976a-9751-49a5-99c7-ff4062a1368c.png)
+![Screenshot_20221113_130841](https://user-images.githubusercontent.com/91041308/201522692-40d63573-47e4-4440-ba0b-d03b7dd333f2.png)
